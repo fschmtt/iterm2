@@ -1,6 +1,6 @@
 # iTerm2 Setup
 
-## Appearance:
+## Appearance
 * **Theme:** Minimal
 
 ## Font
