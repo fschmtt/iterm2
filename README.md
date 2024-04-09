@@ -1,7 +1,17 @@
 # iTerm2 Setup
 
 ## Appearance
+
+### General
 * **Theme:** Minimal
+
+## Profiles
+
+### General
+* **Working Directory:** Reuse previous session's directory
+
+### Keys
+* **Key Mappings:** Preset: Natural Text Editing
 
 ## Font
 
