@@ -19,3 +19,9 @@
 * **Weight:** Medium
 * **Size:** 13 pt
 * **Line height:** 120
+
+## Advanced
+
+### Mouse
+
+* **Scroll wheel sends arrow keys when in alternate screen mode:** Yes
